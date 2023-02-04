@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+urlDB = jdbc:mysql://localhost:3306/amougi_shop
+userDB = manger
+password = abc123
